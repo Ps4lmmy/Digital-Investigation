@@ -1,7 +1,5 @@
 # Digital-Investigation
 
-# Digital Investigation Project
-
 ---
 ## Introduction  
 This project documents a **cybersecurity automation and network traffic analysis** task conducted during my internship at **BNS Cyberlab Limited**.  
@@ -63,7 +61,7 @@ It provided hands-on experience in **digital forensics**, **protocol analysis**,
 ### 4. `BNS04.ZIP` — Supplemental Project Data  
 - **Signature:** `50 4B 03 04`  
 - **Artefact:**  
-  - Contains a BNS-themed financial report, and a flier with the wordings inviting people to join BNC internship.
+  - Contains a BNS-themed financial report, and a flier with the wordings inviting people to join BNS internship.
 
 
 ---
